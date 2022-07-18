@@ -8,7 +8,7 @@
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
-
+<!-- 
 # Fresource <small>3.5</small>
 
 > A magical documentation site generator.
@@ -18,4 +18,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Get Started](#docsify) -->
